@@ -1,0 +1,12 @@
+{
+    "ResistanceSensor":[{"MaxValue":100,"MinValue":0,"MaxMeasure":150,"MinMeasure":0},
+    {"MaxValue":100,"MinValue":0,"MaxMeasure":10,"MinMeasure":0},
+    {"MaxValue":100,"MinValue":0,"MaxMeasure":200,"MinMeasure":0}],
+    "VoltageSensor":[{"MaxValue":12443,"MinValue":4930,"MaxMeasure":32,"MinMeasure":0},
+    {"MaxValue":100,"MinValue":0,"MaxMeasure":100,"MinMeasure":0},
+    {"MaxValue":100,"MinValue":0,"MaxMeasure":100,"MinMeasure":0},
+    {"MaxValue":300,"MinValue":0,"MaxMeasure":1200,"MinMeasure":0},
+    {"MaxValue":15530,"MinValue":0,"MaxMeasure":1,"MinMeasure":0}],
+    "FrequencySensor":[{"MaxValue":700,"MinValue":0,"MaxMeasure":35,"MinMeasure":0},
+    {"MaxValue":1400,"MinValue":0,"MaxMeasure":140,"MinMeasure":0}]
+}
