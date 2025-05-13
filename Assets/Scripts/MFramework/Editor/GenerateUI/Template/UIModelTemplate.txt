@@ -1,0 +1,11 @@
+using Wx.Runtime.UI;
+
+namespace Hotfix.UI
+{
+    /// <summary>
+    /// {0}
+    /// </summary>
+    public class {1} : IUIModel
+    {
+    }
+}
