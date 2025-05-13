@@ -1,0 +1,1 @@
+D:\UnityProjects\TestProjects\MachineControl_URP\ProtoTool\protoc-24.0-win64\bin\protoc.exe --proto_path=D:\UnityProjects\TestProjects\MachineControl_URP\ProtoTool\ProtoFiles\GameMain\Machine\ MachineTransPB.proto --csharp_out=Assets\Scripts\GameMain\ProtoCSharp\

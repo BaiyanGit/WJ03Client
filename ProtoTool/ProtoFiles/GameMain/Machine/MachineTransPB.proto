@@ -1,0 +1,14 @@
+syntax = "proto3";
+package GameMain;
+
+message MachineTransPB{
+	string Ip = 1;
+
+	float xPos = 2;
+	float yPos = 3;
+	float zPos = 4;
+
+	float xRot = 5;
+	float yRot = 6;
+	float zRot = 7;
+}

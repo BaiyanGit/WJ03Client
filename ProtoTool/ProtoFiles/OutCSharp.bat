@@ -1,0 +1,1 @@
+..\protoc-24.0-win64\bin\protoc.exe --proto_path=.\ User.proto --csharp_out=.\CSharpOut\

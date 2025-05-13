@@ -1,0 +1,21 @@
+syntax = "proto3";
+package GameMain;
+
+message PlayerInfoPB{
+	string Ip = 1;
+	string machineType = 2;
+	float xPos = 3;
+	float yPos = 4;
+	float zPos = 5;
+	float xRot = 6;
+	float yRot = 7;
+	float zRot = 8;
+}
+
+message PlayerInfoRequestPB{
+	string Ip = 1;
+}
+
+message PlayerInfoResponsePB{
+	repeated PlayerInfoPB playerInfos = 1;
+}

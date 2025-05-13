@@ -1,0 +1,9 @@
+syntax = "proto3";
+package GameMain;
+
+message JointControlPB{
+	string Ip = 1;
+	uint32 Joint = 2;
+	bool active = 3;
+	float value = 4;
+}

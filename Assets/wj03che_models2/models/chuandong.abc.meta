@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 083684cac3561b64badb490335df4ea0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/fengshan_001/fengshan_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/fengshanchuandong_001/fengshanchuandong_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_001/huosaigan_01/huosaigan_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_002/huosaigan_02/huosaigan_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_003/huosaigan_03/huosaigan_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_004/huosaigan_04/huosaigan_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_005/huosaigan_05/huosaigan_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_006/huosaigan_06/huosaigan_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_007/huosaigan_07/huosaigan_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/gan_008/huosaigan_08/huosaigan_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_01/huosai_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_02/huosai_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_03/huosai_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_04/huosai_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_05/huosai_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_06/huosai_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_07/huosai_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/huosai_08/huosai_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/jinyouguan/guandaojinyou_001/guandaojinyou_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/jinyouguan/jinyouguan_0001/jinyouguan_0001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/jinyouguan/jinyouguan_0002/jinyouguan_0002Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/jinyouguan/jiyouguan_001/jiyouguan_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/jinyouguan/jiyoujiekou_001/jiyoujiekou_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/dike_01/dike_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/dingke_01/dingke_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/jinqi_01/jinqi_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/jinqi_ganggan_01/jinqi_ganggan_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/jinqi_off_01/jinqi_off_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/jinqi_tanhuang_01/jinqi_tanhuang_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/penyouzui_01/penyouzui_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/xiqi_01/xiqi_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/xiqi_ganggan_01/xiqi_ganggan_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/xiqi_off_01/xiqi_off_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_01/xiqi_tanhuang_01/xiqi_tanhuang_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/dike_02/dike_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/dingke02/dingke02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/jinqi_02/jinqi_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/jinqi_ganggan_02/jinqi_ganggan_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/jinqi_off_02/jinqi_off_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/jinqi_tanhuang_02/jinqi_tanhuang_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/penyouzui_02/penyouzui_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/xiqi_02/xiqi_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/xiqi_ganggan_02/xiqi_ganggan_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/xiqi_off_02/xiqi_off_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_02/xiqi_tanhuang_02/xiqi_tanhuang_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/dike_03/dike_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/dingke_03/dingke_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/jinqi_03/jinqi_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/jinqi_ganggan_03/jinqi_ganggan_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/jinqi_off_03/jinqi_off_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/jinqi_tanhuang_03/jinqi_tanhuang_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/penyouzui_03/penyouzui_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/xiqi_03/xiqi_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/xiqi_ganggan_03/xiqi_ganggan_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/xiqi_off_03/xiqi_off_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_03/xiqi_tanhuang_03/xiqi_tanhuang_03Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/dike_04/dike_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/dingke04/dingke04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/jinqi_04/jinqi_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/jinqi_ganggan_04/jinqi_ganggan_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/jinqi_off_04/jinqi_off_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/jinqi_tanhuang_04/jinqi_tanhuang_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/penyouzui_04/penyouzui_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/xiqi_04/xiqi_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/xiqi_ganggan_04/xiqi_ganggan_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/xiqi_off_04/xiqi_off_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_04/xiqi_tanhuang_04/xiqi_tanhuang_04Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/dike_05/dike_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/dingke_05/dingke_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/jinqi_05/jinqi_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/jinqi_ganggan_05/jinqi_ganggan_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/jinqi_off_05/jinqi_off_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/jinqi_tanhuang_05/jinqi_tanhuang_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/penyouzui_05/penyouzui_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/xiqi_05/xiqi_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/xiqi_ganggan_05/xiqi_ganggan_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/xiqi_off_05/xiqi_off_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_05/xiqi_tanhuang_05/xiqi_tanhuang_05Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/dike_06/dike_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/dingke06/dingke06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/jinqi_06/jinqi_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/jinqi_ganggan_06/jinqi_ganggan_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/jinqi_off_06/jinqi_off_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/jinqi_tanhuang_06/jinqi_tanhuang_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/penyouzui_06/penyouzui_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/xiqi_06/xiqi_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/xiqi_ganggan_06/xiqi_ganggan_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/xiqi_off_06/xiqi_off_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_06/xiqi_tanhuang_06/xiqi_tanhuang_06Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/dike_07/dike_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/dingke07/dingke07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/jinqi_07/jinqi_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/jinqi_ganggan_07/jinqi_ganggan_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/jinqi_off_07/jinqi_off_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/jinqi_tanhuang_07/jinqi_tanhuang_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/penyouzui_07/penyouzui_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/xiqi_07/xiqi_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/xiqi_ganggan_07/xiqi_ganggan_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/xiqi_off_07/xiqi_off_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_07/xiqi_tanhuang_07/xiqi_tanhuang_07Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/dike_08/dike_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/dingke/dingkeShape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/jinqi_08/jinqi_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/jinqi_ganggan_08/jinqi_ganggan_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/jinqi_off_08/jinqi_off_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/jinqi_tanhuang_08/jinqi_tanhuang_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/penyouzui_08/penyouzui_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/xiqi_08/xiqi_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/xiqi_ganggan_08/xiqi_ganggan_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/xiqi_off_08/xiqi_off_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/peiqi_08/xiqi_tanhuang_08/xiqi_tanhuang_08Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/penyoubeng_chilun_001/penyoubeng_chilun_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/qidongji_chilun_001/qidongji_chilun_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/quzhou_001/peizhongkuai_001/peizhongkuai_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/quzhou_001/quzhou_012/quzhou_0Shape12:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/quzhou_001/quzhou_034/quzhou_0Shape34:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/quzhou_001/quzhou_056/quzhou_0Shape56:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/quzhou_001/quzhou_078/quzhou_0Shape78:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/quzhou_001/zhuti_001/zhuti_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_014/tulun_0Shape14:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_017/tulun_0Shape17:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_018/tulun_0Shape18:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_019/tulun_0Shape19:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_020/tulun_0Shape20:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_021/tulun_0Shape21:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_022/tulun_0Shape22:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_023/tulun_0Shape23:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_024/tulun_0Shape24:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_025/tulun_0Shape25:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_026/tulun_0Shape26:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_027/tulun_0Shape27:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_028/tulun_0Shape28:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_029/tulun_0Shape29:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_030/tulun_0Shape30:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/tulun_031/tulun_0Shape31:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/tulun_001/zhuti_001/zhuti_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/_jiyoulvqing_001/_jiyoulvqing_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/chilun_K_001/chilun_K_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/chuangganqi_01/chuangganqi_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/dike_001/dike_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/fadianji_K_001/fadianji_K_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/fengshan_ke_001/fengshan_ke_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/gangjia_01/gangjia_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/gudingkuai_01/gudingkuai_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/guolv_01/guolv_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/guolv_02/guolv_02Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/jiekou_002/jiekou_002Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/jinqi_0001/jinqi_0001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/jinqi_002/jinqi_002Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/jiyousanre_001/jiyousanre_00Shape1:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/kongqizhidong_guan_001/kongqizhidong_guan_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/pCube27_001/pCube27_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/pCylinder119_001/pCylinder119_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/paiqi_001/paiqi_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/paiqi_wolun_001/paiqi_wolun_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/pidai_001/pidai_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/qidongjiwaike_01/qidongjiwaike_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/ranyoulvqingqi_01/ranyoulvqingqi_01Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/shangke001/shangke001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/shuyoubeng_001/shuyoubeng_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/waike_001/waike_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/wapian_001/wapian_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'FDJ_chuandong_001/waike/xiyou_001/xiyou_001Shape:000:'
+    second: {fileID: 2100000, guid: aadd9d7c49c39624699150eb5603c3cf, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  rootGameObjectId: 
+  rootGameObjectName: 
+  importerVersion: 1
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    importVisibility: 1
+    scaleFactor: 0.01
+    swapHandedness: 1
+    flipFaces: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 1
+    importMeshes: 1
+    importPoints: 0
+    importCurves: 1
+    createCurveRenderers: 0
+  abcStartTime: 7
+  abcEndTime: 10
+  startTime: 7
+  endTime: 10
+  importWarning: 
+  firstImport: 0
+  isHDF5: 0

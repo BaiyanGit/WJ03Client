@@ -1,0 +1,18 @@
+syntax = "proto3";
+package GameMain.Runtime.Proto;
+
+message Heartbeat {
+    uint64 id = 1;
+    string time = 2;
+}
+
+message GetHeartbeatRequest{
+    uint64 id = 1;
+}
+
+message GetHeartbeatResponse{
+     //错误码 0为成功
+    sint64 code = 1;
+    //错误信息
+    string info = 2;
+}

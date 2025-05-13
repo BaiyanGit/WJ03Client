@@ -1,0 +1,29 @@
+syntax = "proto3";
+package GameMain.Runtime.Proto;
+
+message Car {
+    string id = 1;
+    string name = 2;
+    string head = 3;
+    uint64 playerExp = 4 ; //修为
+    uint64 playerLevel = 5;//玩家段位
+    uint64 weaponLevel = 6;// 兵器段位
+    uint64 weaponExp = 7;// 兵器修为
+}
+
+//查询玩家
+message GetCarRequest {
+    string playerId = 1;// 玩家ID
+}
+
+message GetCarResponse {
+    //错误码 0为成功
+    sint64 code = 1;
+    //错误信息
+    string info = 2;
+    message Data {
+        Car player = 1;
+        bool Exist = 2;
+    }
+    Data data = 3;
+}

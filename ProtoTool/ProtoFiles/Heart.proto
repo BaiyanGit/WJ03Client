@@ -1,0 +1,7 @@
+syntax = "proto3";
+package proto;
+
+//ĞÄÌøÏûÏ¢
+message HeartBeatResponse {
+
+}
