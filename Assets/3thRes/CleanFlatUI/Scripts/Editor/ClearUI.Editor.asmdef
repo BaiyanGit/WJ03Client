@@ -1,0 +1,19 @@
+{
+    "name": "ClearUI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf60bc3cf113d5c4daafdbe77a0bb9e4",
+        "GUID:6546d7765b4165b40850b3667f981c26"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
